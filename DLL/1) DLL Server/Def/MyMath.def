@@ -1,0 +1,4 @@
+LIBRARY DllDef
+EXPORTS
+		MakeSquare
+
