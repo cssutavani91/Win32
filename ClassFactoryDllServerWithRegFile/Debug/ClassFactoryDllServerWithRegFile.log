@@ -1,0 +1,5 @@
+﻿  ClassFactoryDllServerWithRegFile.cpp
+ClassFactoryDllServerWithRegFile.def : warning LNK4222: exported symbol 'DllGetClassObject' should not be assigned an ordinal
+ClassFactoryDllServerWithRegFile.def : warning LNK4222: exported symbol 'DllCanUnloadNow' should not be assigned an ordinal
+     Creating library D:\gokhale sir\WIN32SDK\Coding\1) IDE\ClassFactoryDllServerWithRegFile\Debug\ClassFactoryDllServerWithRegFile.lib and object D:\gokhale sir\WIN32SDK\Coding\1) IDE\ClassFactoryDllServerWithRegFile\Debug\ClassFactoryDllServerWithRegFile.exp
+  ClassFactoryDllServerWithRegFile.vcxproj -> D:\gokhale sir\WIN32SDK\Coding\1) IDE\ClassFactoryDllServerWithRegFile\Debug\ClassFactoryDllServerWithRegFile.dll
